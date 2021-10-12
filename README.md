@@ -27,6 +27,7 @@ Contributing into Wasmer-JS it's very easy, just clone the repo and run:
 
 ```bash
 npm install
+npm run build
 ```
 
 > **NOTE:** This will run `lerna bootstrap`, and bootstrap the JS Packages.
