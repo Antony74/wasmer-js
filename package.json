@@ -40,6 +40,7 @@
   "devDependencies": {
     "@ampproject/rollup-plugin-closure-compiler": "^0.10.0",
     "@babel/core": "^7.6.2",
+    "@babel/helper-compilation-targets": "^7.15.4",
     "@oclif/dev-cli": "^1.22.2",
     "@oclif/test": "^1.2.5",
     "@oclif/tslint": "^3.1.1",
